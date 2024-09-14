@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.21.0"
+  },
+  "name": "mybackend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cristthien/MSIS207-BE.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cristthien/MSIS207-BE/issues"
+  },
+  "homepage": "https://github.com/cristthien/MSIS207-BE#readme",
+  "description": ""
+}
